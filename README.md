@@ -1,1 +1,1 @@
-1. sebagai format untuk bertukar data client dan server atau antar aplikasi.
+1. JSON sebagai format untuk bertukar data client dan server atau antar aplikasi.
